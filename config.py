@@ -1,18 +1,15 @@
-CHANNEL_ID = 123123  # Айди канала
-INVOICE_LINK = "https://t.me/send?start=IVDPUVSBls87"  #  Линк на инвойс
-RULES_LINK = "https://t.me/c/2192323057/3"  #  Линк на правила
-NEWS_LINK = "https://t.me/+noTnZbQmYYhmMjIy"  #  Линк польз. соглашения
-SUPPORT_LINK = "https://t.me/starwebb"  #  Линк саппорта
-FAQ_LINK = "https://t.me/c/2192323057/3" # FAQ
-CRYPTO_PAY_TOKEN = "242947:"  #  Токен от CryptoPay фулл откат сделал, ща посмотрим
-BOT_TOKEN = "7404473505:-JcPSkOU8PA"  #  Токен бота че тупой, не я вставлял ранее, я говорю фулл скрипт откатитл, до изменений
-SCAM_SUM = 5
-SCAM_SUM_WHEEL = 10
-SCAM_WHEEL = 0
-ADMIN_ID = 5330676613  # Айди админа
-ADMIN_SD = 1452896288
-NEWS_ID = -1002192323057  # Айди канала новостей
-VIPLAT_ID = -1002059587052
+CHANNEL_ID = -1002200819120 #Айди канала
+INVOICE_LINK ="t.me/send?start=IVQV6jWJ0YRo #  Линк на инвойс
+RULES_LINK = "https://t.me/CenterzCryptoCasino/2"  #  Линк на правила
+NEWS_LINK = "https://t.me/NewsCenterZ"
+ # https://telegra.ph/Polzovatelskoe-soglashenie-CenterzCryptoCasino-09-08 Линк польз. соглашения
+SUPPORT_LINK = "https://t.me/Diileer"  #  Линк саппорта
+FAQ_LINK = "https://t.me/CenterzCryptoCasino/2" # FAQ
+CRYPTO_PAY_TOKEN = "265812:AAsdtMkJ6hMYQUe7vNcnJ7lbJI6LW6krE8k"  # 
+BOT_TOKEN = "6961350673:AAGOAqeId8zB1GeYmVS9yWfUM3XohEz8F5g"  #  
+ADMIN_ID =  957994183  5883508859 # Айди админа
+NEWS_ID =  -1002300830919# Айди канала новостей
+VIPLAT_ID = -1002448355933
 min_vivod = 1.1
 xamount_action = False
 kef = 2.8
