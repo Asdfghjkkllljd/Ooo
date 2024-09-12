@@ -1,5 +1,5 @@
 CHANNEL_ID = -1002200819120 #Айди канала
-INVOICE_LINK ="t.me/send?start=IVQV6jWJ0YRo #  Линк на инвойс
+INVOICE_LINK = "t.me/send?start=IVQV6jWJ0YRo" #  Линк на инвойс
 RULES_LINK = "https://t.me/CenterzCryptoCasino/2"  #  Линк на правила
 NEWS_LINK = "https://t.me/NewsCenterZ"
  # https://telegra.ph/Polzovatelskoe-soglashenie-CenterzCryptoCasino-09-08 Линк польз. соглашения
