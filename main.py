@@ -425,7 +425,7 @@ async def profile(msg: Message):
     register_date = user.timestamp.strftime('%Y-%m-%d %H:%M')
     today_bets = 0
     today_games = 0
-    photo_url = "https://imgur.com/a/l1yo7Ep"
+    photo_url = "https://imgur.com/a/UDq9VrV"
     print(winrate)
     await msg.answer_photo(
         photo_url,
