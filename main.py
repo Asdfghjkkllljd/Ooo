@@ -425,7 +425,7 @@ async def profile(msg: Message):
     register_date = user.timestamp.strftime('%Y-%m-%d %H:%M')
     today_bets = 0
     today_games = 0
-    photo_url = "https://i.postimg.cc/L6t7t6DW/vazimoff.png"
+    photo_url = "https://imgur.com/a/l1yo7Ep"
     print(winrate)
     await msg.answer_photo(
         photo_url,
@@ -518,14 +518,13 @@ async def about_us(msg: Message):
 
     total_bets_formatted = f"{total_bets:,}".replace(',', ' ')
 
-    photo_url = "https://i.imgur.com/enOfF9u.jpeg"
+    photo_url = "https://imgur.com/a/eAIU1CL"
 
     keyboard = InlineKeyboardMarkup(row_width=2)
     keyboard.add(
-        InlineKeyboardButton("👤 Администратор", url="https://t.me/starwebb"),
-        InlineKeyboardButton("💬 Чат", url="https://t.me/+QDcTI221QRgwNzIy"),
-        InlineKeyboardButton("📰 Новостной канал", url="https://t.me/+noTnZbQmYYhmMjIy"),
-        InlineKeyboardButton("🎲 Канал со ставками", url="https://t.me/+6yHQlZaUizQ5ZmMy")
+        InlineKeyboardButton("👤 Администратор", url="https://t.me/Diileer"),
+        InlineKeyboardButton("📰 Новостной канал", url="https://t.me/NewsCenterZ"),
+        InlineKeyboardButton("🎲 Канал со ставками", url="https://t.me/CenterzCryptoCasino")
     )
 
     await msg.answer_photo(
